@@ -1,6 +1,6 @@
 # github-scraping
 
-##O que é ?
+## O que é ?
 Github Scraping é um projeto desenvolvido para um teste, cujo objetivo é executar um scraping de qualquer repositório que for inserido em um determinado arquivo na raiz do projeto.
 
 Ao executar será criado um diretório `repositorios/` com arquivos `.txt` com o nome do repositório `owner_repository.txt`
